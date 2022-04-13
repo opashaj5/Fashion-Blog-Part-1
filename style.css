@@ -4,12 +4,17 @@
 
 html {
     border-left: 5px solid lightgray;
+    margin-left: 100px;
 }
 
 body {
     min-height: 100vh;
     max-width: 1000px;
     margin: auto;
+}
+
+time {
+    color: lightgray;
 }
 
 header,
